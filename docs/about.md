@@ -1,8 +1,12 @@
 ---
 layout: page
 title: About
-permalink: /about
+permalink: /about/
 ---
+
+# About
+
+This site is used to post personal blogs including technical learnings, works, sports, everything about my life.
 
 # Me
 
